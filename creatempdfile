@@ -1450,29 +1450,29 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="Singapore",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBWm9fb1VJa2tFNDNqY2s4c0pIaE53WDJkZVdXVm5jNm9wSEtsal9NZFBHWU1jSVJGMXVjZ0NaRW1zQy1HQ1dld3VtczhQUWJ6RHRzU3B2WGg3T1NETWZ1clBKanZ4RXU0WXFUWmg1SkM1ZFVFVnJLazFmdUJlNklIaU12LUU4cXNXRFh6YzFrdjB5bWcwazZxWUVObnE0UE00dTJOeElTQXlLVjBNOVduQmZrRnR0NUZwa0Q2MHBvWDNWbTl5dkNNc3cxdWZKaUNDZ0I2UVpOSzh0MEhaZDFuZzRxeGlrdHBDUzhPT0tWdzdfeFpOa0p2NjUxYk5YWk9wRmN4REpyTEl0Y2hXcDhZelp6aTVaVTVhalBrQlFpWjBiTWZDVHUyZVVLeFZWb2ZTbCZjb250ZXh0VHlwZT1ub25lJmlkPTEwOTM4MTUwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQVpvX29VSWtrRTQzamNrOHNKSGhOd1gyZGVXV1ZuYzZvcEhLbGpfTWRQR1lNY0lSRjF1Y2dDWkVtc0MtR0NXZXd1bXM4UFFiekR0c1NwdlhoN09TRE1mdXJQSmp2eEV1NFlxVFpoNUpDNWRVRVZyS2sxZnVCZTZJSGlNdi1FOHFzV0RYemMxa3YweW1nMGs2cVlFTm5xNFBNNHUyTnhJU0F5S1YwTTlXbkJma0Z0dDVGcGtENjBwb1gzVm05eXZDTXN3MXVmSmlDQ2dCNlFaTks4dDBIWmQxbmc0cXhpa3RwQ1M4T09LVnc3X3haTmtKdjY1MWJOWFpPcEZjeERKckxJdGNoV3A4WXpaemk1WlU1YWpQa0JRaVowYk1mQ1R1MmVVS3hWVm9mU2wiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=7VTGC2zDWPPHFgU9OCpyWkTTcDk%3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-ID="Ch5.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="Singapore",Channel 5
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Mediacorp_Suria_2015.jpg/revision/latest/scale-to-width-down/400?cb=20161026043330" group-title="Singapore",Suria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNdmdLOEFEa1BTMHVPS3hlX3FVZ21yUGVXNTlNX3hQYWdYWWRwam1kU2J3NmpoY3NqSm5POFlpN05FX0k0b29CaG9YYXVFZU9XcWxScG1CdUs0NEZ0YVRWVjE5Wm0yVG5kclRwd1hPN3EyMWRpTlY2a3FuZW1TNW96TkFfVVFKcnQ0ek5leHBfYXd2Z1VEZHZyMXNZQXpRQVVIMXdHcTFLSjRXOTY0WGlzdk92OG1tcWg3MmV4T0hmUjZab2RQaVcxeExTY2xfN0k4bWxrR1RubUswLVEtZ0o2NV93dWZqOFlHN0tMdTZtcVM0XzFKZU9HeDktYkhaNXVRUENpbkcwS19EQ05wYURVcEF5QVNyTEtyRmxnRWI1ekU1b1FvTjJCWGNWajVZLW9OeCZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjUiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk12Z0s4QURrUFMwdU9LeGVfcVVnbXJQZVc1OU1feFBhZ1hZZHBqbWRTYnc2amhjc2pKbk84WWk3TkVfSTRvb0Job1hhdUVlT1dxbFJwbUJ1SzQ0RnRhVFZWMTlabTJUbmRyVHB3WE83cTIxZGlOVjZrcW5lbVM1b3pOQV9VUUpydDR6TmV4cF9hd3ZnVURkdnIxc1lBelFBVUgxd0dxMUtKNFc5NjRYaXN2T3Y4bW1xaDcyZXhPSGZSNlpvZFBpVzF4TFNjbF83SThtbGtHVG5tSzAtUS1nSjY1X3d1Zmo4WUc3S0x1Nm1xUzRfMUplT0d4OS1iSFo1dVFQQ2luRzBLX0RDTnBhRFVwQXlBU3JMS3JGbGdFYjV6RTVvUW9OMkJYY1ZqNVktb054IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ps2z3PHeOjOZWePytH4Gcz%2bp9Bo%3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-ID="Sur.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Mediacorp_Suria_2015.jpg/revision/latest/scale-to-width-down/400?cb=20161026043330" group-title="Singapore",Suria
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Singapore",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGYmlBV05ZUXZabThNS2JxMXBLQTl4NTR4RnljSWU0RnA2UXdoZjBiMFh3bUpYaTlackFWSldQeDMwVlQxMUM4Z0tpSTFzaDZDZUZvbm5WMWtyN0dxRE8zd0E2WTZ0WmJOZFpaQUJDejlfS3hjbjFhZ05VRmY4R2dMMHpVem5wS19fSzNxNlFRamZZR2VLMmtmOVE3LTZrQlRadlU1RXZmcGkwTjg3VWRMLURieXh5Z0wwWjRGcDRRamFpTDZvX25iQ0JiUHhHZkJsSmhYTFRLUVRXWGNvRE9TVUhLdTJfaG9sTktBSkpJTnF5N1pGXzYySmNTYTdyVzE0VlZ3WU5sVTR4N3BnQzJGd1FyV2RBSmFyRWs0ejV0SW1IUnBsN3lJM21IaTh3SFcwS1Zpdkhsdk0yS2oybkVlZDRVU0NvZGcyb1JxSTFqWktTdXhlRVBIaTl2cnM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwNyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkZiaUFXTllRdlptOE1LYnExcEtBOXg1NHhGeWNJZTRGcDZRd2hmMGIwWHdtSlhpOVpyQVZKV1B4MzBWVDExQzhnS2lJMXNoNkNlRm9ublYxa3I3R3FETzN3QTZZNnRaYk5kWlpBQkN6OV9LeGNuMWFnTlVGZjhHZ0wwelV6bnBLX19LM3E2UVFqZllHZUsya2Y5UTctNmtCVFp2VTVFdmZwaTBOODdVZEwtRGJ5eHlnTDBaNEZwNFFqYWlMNm9fbmJDQmJQeEdmQmxKaFhMVEtRVFdYY29ET1NVSEt1Ml9ob2xOS0FKSklOcXk3WkZfNjJKY1NhN3JXMTRWVndZTmxVNHg3cGdDMkZ3UXJXZEFKYXJFazR6NXRJbUhScGw3eUkzbUhpOHdIVzBLVml2SGx2TTJLajJuRWVkNFVTQ29kZzJvUnFJMWpaS1N1eGVFUEhpOXZycz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=ZLvPjjkyDE%2fzcWtDmroR7FrQsj0%3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-ID="Vas.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Singapore",Vasantham
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
 https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MediaCorp_Channel_8_logo.jpg/revision/latest/scale-to-width-down/300?cb=20101105105951" group-title="Singapore",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJV2RodDFkZ3VOcnJKZkhBOUVoWGdkRnkxa1E0VkNIRUZuRHpnOTRJemxvbFdqY0N5WFl1bmVHSHFRb0lBdVdPY2ozLUxwd2EwQ0QwUXhBRm42LXVZMlhRSEhIbUp0aWVFSlJqMWZIeS1OZHlTS0Q3VlMySDZaUUtiNW9McFdEcE45UEdWUEhIQnAySW4wSW9Dc3JBNGtBU3JHSVFqZzNqWjJzaDhoTGUtcE1TQ09zdnpJNFBmVll3R0ZhUU9nbGpGZV9SM3dERWtPdlZGOUxIQktyZzBBMEFzTnFSWE9rS1hUcTNJWkxRbHBURS1ZT201eUo2VkpCSjFWVFlGaWJNQlpEUVVYZDViMDd3LWtfQmlVS0RHN3lvNlJqaWZzdS1zaDA3ZGpScTlOTzI4NlM0SDc5STVmcjAxUDQ1QUQ4dmo0T2JSUGVlckFITUdkeW9BMmlHSXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9OTgyNjk5MSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZklXZGh0MWRndU5yckpmSEE5RWhYZ2RGeTFrUTRWQ0hFRm5Eemc5NEl6bG9sV2pjQ3lYWXVuZUdIcVFvSUF1V09jajMtTHB3YTBDRDBReEFGbjYtdVkyWFFISEhtSnRpZUVKUmoxZkh5LU5keVNLRDdWUzJINlpRS2I1b0xwV0RwTjlQR1ZQSEhCcDJJbjBJb0NzckE0a0FTckdJUWpnM2paMnNoOGhMZS1wTVNDT3N2ekk0UGZWWXdHRmFRT2dsakZlX1Izd0RFa092VkY5TEhCS3JnMEEwQXNOcVJYT2tLWFRxM0laTFFscFRFLVlPbTV5SjZWSkJKMVZUWUZpYk1CWkRRVVhkNWIwN3cta19CaVVLREc3eW82UmppZnN1LXNoMDdkalJxOU5PMjg2UzRINzlJNWZyMDFQNDVBRDh2ajRPYlJQZWVyQUhNR2R5b0EyaUdJdz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=nEImywI%2fPbi0egtjQha8Sc5tkD8%3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-ID="Ch8.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MediaCorp_Channel_8_logo.jpg/revision/latest/scale-to-width-down/300?cb=20101105105951" group-title="Singapore",Channel 8
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://unitechmech.com/wp-content/uploads/2018/05/image14.jpeg" group-title="Singapore",Channel U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIQ2lkRjU4TEgzNk9KTUxGUzRBVWF6OGc5SklZT2lrZGtyWjJ6WDZfTE96aEpRZGNWLUNYRXNNN001bU5Dck1ScWRXcG1jb1JfYzVWOVNIbDRRNnN1TF91NGtFbnZhM0FEMUhxVW9HekxFNzQ2VEp1NWxianRLdjhXOFhwTjdkSnNQRGhySENLLWhXWDZ0RmRjTDUxTWVOUzFndkctZWs5c3hXR2ZYYXNSajFmLTBaajdqYVE0US1IQlFxdXlNbXRoazRSTGVaSUYwMGhmeXptRFk1em9DZzN5VVlVSVpqdVRnRi1hcW94b1NhaFVRLWU5QVRaM1RqZWhRVGFzbkt1QzJ0bWYzMW9qVERZMUY2b2ZJeXJSWHNtSlVWMFliZG5zVF9DeE9Gbm0yWFloZWd1endsTUZYb2hyNXFuOHlqa2d0ZThyazd6R0toRzI2TXdJTEVUVTBlR2M4SkkwcWp0MW5RRXU0N0dERmMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSENpZEY1OExIMzZPSk1MRlM0QVVhejhnOUpJWU9pa2Rrcloyelg2X0xPemhKUWRjVi1DWEVzTTdNNW1OQ3JNUnFkV3BtY29SX2M1VjlTSGw0UTZzdUxfdTRrRW52YTNBRDFIcVVvR3pMRTc0NlRKdTVsYmp0S3Y4VzhYcE43ZEpzUERockhDSy1oV1g2dEZkY0w1MU1lTlMxZ3ZHLWVrOXN4V0dmWGFzUmoxZi0wWmo3amFRNFEtSEJRcXV5TW10aGs0UkxlWklGMDBoZnl6bURZNXpvQ2czeVVZVUlaanVUZ0YtYXFveG9TYWhVUS1lOUFUWjNUamVoUVRhc25LdUMydG1mMzFvalREWTFGNm9mSXlyUlhzbUpVVjBZYmRuc1RfQ3hPRm5tMlhZaGVndXp3bE1GWG9ocjVxbjh5amtndGU4cms3ekdLaEcyNk13SUxFVFUwZUdjOEpJMHFqdDFuUUV1NDdHREZjIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=BHyoLJQhOrjCtrtFm3RF6eS3tBA%3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-ID="ChU.SG" tvg-logo="https://unitechmech.com/wp-content/uploads/2018/05/image14.jpeg" group-title="Singapore",Channel U
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 
@@ -1481,141 +1481,141 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 //pl2
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title=✨LOKAL ID2✨, RCTI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" , RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title=✨LOKAL ID2✨, MNCTV 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-id="mnctv" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" , MNCTV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title=✨LOKAL ID2✨, GTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" , GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title=✨LOKAL ID2✨, INEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" , INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/nasatv.png" group-title=✨LOKAL ID2✨,NASA TV 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/nasatv.png" ,NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/magnatv.png" group-title=✨LOKAL ID2✨,Magna TV 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/magnatv.png" ,Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title=✨LOKAL ID2✨,TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-id="trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" ,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title=✨LOKAL ID2✨,TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-id="transtv" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" ,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/cnnindo.png" group-title=✨LOKAL ID2✨,CNN INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/cnnindo.png" ,CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/cnbcindonesia.png" group-title=✨LOKAL ID2✨,CNBC INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/cnbcindonesia.png" ,CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title=✨LOKAL ID2✨,BERITA SATU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" ,BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/bsworld.png" group-title=✨LOKAL ID2✨,BERITA SATU WORLD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/bsworld.png" ,BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jakartaglobenews.png" group-title=✨LOKAL ID2✨,JAKARTA GLOBE NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/jakartaglobenews.png" ,JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF: -1 tvg-logo="http://dusktill.masuk.web.id/img/rri.png" group-title=✨LOKAL ID2✨, RRI NET
+#EXTINF: -1 tvg-logo="http://dusktill.masuk.web.id/img/rri.png" , RRI NET
 http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jitv.png" group-title=✨LOKAL ID2✨, JITV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/jitv.png" , JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ntv.png" group-title=✨LOKAL ID2✨,Nusantara TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/ntv.png" ,Nusantara TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title=✨LOKAL ID2✨, JTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" , JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/eljohn.png" group-title=✨LOKAL ID2✨, El John TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/eljohn.png" , El John TV HD
 https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/eljohn.png" group-title=✨LOKAL ID2✨, El John TV 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/eljohn.png" , El John TV 
 https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/cna.png" group-title=✨LOKAL ID2✨, CNA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/cna.png" , CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/kbsworld.png" group-title=✨LOKAL ID2✨, KBS World
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/kbsworld.png" , KBS World
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" group-title=✨LOKAL ID2✨,ARIRANG
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" ,ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="arirang" tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" group-title=✨LOKAL ID2✨,ARIRANG 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-id="arirang" tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" ,ARIRANG 2
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",ANTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9076
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TRANS7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TRANS7
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9077
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TVKU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TVKU
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9073
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",RTV TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",RTV TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7972
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",RCTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",RCTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7963
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",JTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",JTV HD
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7966
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Metro TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7942
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Ahsan TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Ahsan TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7947
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",B-TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",B-TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7971
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BERITA SATU TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",BERITA SATU TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/8005
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Citra TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Citra TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7959
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",CNN Indonesia
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7944
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",DIGDAYATV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",DIGDAYATV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/8001
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Insan TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Insan TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7954
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",MGSTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",MGSTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7962
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",MTA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",MTA TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7950
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Padang TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Padang TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7984
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",PADANJTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",PADANJTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7976
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",RBTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",RBTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7973
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",RCTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",RCTV HD
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7970
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Reformed 21
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Reformed 21
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7955
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",MTA 3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",MTA 3
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7946
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sakti TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Sakti TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7957
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Salam TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Salam TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7949
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TEGAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TEGAR TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7982
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",The Indonesia Channel
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",The Indonesia Channel
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7941
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TV Edukasi
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TV Edukasi
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7945
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TVKU TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TVKU TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7956
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Wesal TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Wesal TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/7948
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BBS TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",BBS TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9072
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",CNN Indonesia
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9074
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",DAAITV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",DAAITV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9083
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",DANGDUTZ
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",DANGDUTZ
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9080
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",DW TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",DW TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9084
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ELSHINTA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",ELSHINTA TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9082
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",FOODIE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",FOODIE
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9085
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",HI TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",HI TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9087
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",J'GO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",J'GO
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9081
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",JTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",JTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9091
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",LBS K-DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",LBS K-DRAMA
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9092
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Metro TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9075
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",MIVO TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",MIVO TV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9093
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",MYTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",MYTV
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9089
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",SPACETOON
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",SPACETOON
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9095
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TVRI Lampung
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨LOKAL ID2✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TVRI Lampung
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9062
 
 
@@ -5698,275 +5698,107 @@ http://14.192.144.14:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiaTV" tvg-logo="https://i.imgur.com/x77Ay6u.jpg",nick HD+(setAuto)
 http://14.192.144.14:8000/play/a01u/index.m3u8
 
+#EXTINF:-1 group-title="HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade 7(翡翠台)
+http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png",TVB J2 ok
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 group-title="HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png",TVB J2 4
+http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png",TVB Pearl ok (明珠台)
+http://61.238.6.49:8001/bysid/2.mpeg
+#EXTINF:-1 group-title="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png",TVB Pearl 6(無綫明珠台)
+http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png",TVB News Channel (無綫新聞台)
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png",TVB Finance & Information Channel(無綫財經資訊台)
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 group-title="HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 group-title="HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png",I-Cable Fmly Ent Channel (有線綜合娱乐)
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png",I-Cable News (有線新闻)
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png",I-CABLE Finance News (有線財經資訊)
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png",HK OpenTV (HK开電視)
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://www.hkatv.com/images/logo.png",ATV Asia (亞洲電視台)
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="http://tv.sason.xyz/logo/rthk31.png",RTHK (港台電視31)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="HK" tvg-logo="http://tv.sason.xyz/logo/rthk32.png",RTHK (港台電視32)
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="HK" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg",TDM (澳視澳門台)
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png",TDM MACAU (澳視MACAU)
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg",TDM Infomation (澳視資訊)
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 group-title="TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png",民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 group-title="TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png",民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 group-title="TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png",東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS新聞
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png",三立新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立財經新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://www.daai.tv/images/logo.png",大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1",原住民電視
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EBS+2
-http://39.119.199.218:9981/stream/channelid/1538445318?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EBS1
-http://39.119.199.218:9981/stream/channelid/1303139714?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EBS2
-http://39.119.199.218:9981/stream/channelid/1657482648?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",KBS2 대전
-http://39.119.199.218:9981/stream/channelid/596439731?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",현대홈쇼핑
-http://39.119.199.218:9981/stream/channelid/765229795?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",KBS1 대전
-http://39.119.199.218:9981/stream/channelid/1667315469?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBC DTV
-http://39.119.199.218:9981/stream/channelid/2031750712?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CMB
-http://39.119.199.218:9981/stream/channelid/119384090?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",GS SHOP
-http://39.119.199.218:9981/stream/channelid/315324761?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",채널A
-http://39.119.199.218:9981/stream/channelid/678558024?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",TV조선
-http://39.119.199.218:9981/stream/channelid/1448730107?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBN
-http://39.119.199.218:9981/stream/channelid/526252939?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",공영쇼핑
-http://39.119.199.218:9981/stream/channelid/36001906?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",신세계쇼핑
-http://39.119.199.218:9981/stream/channelid/948173124?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",YTN
-http://39.119.199.218:9981/stream/channelid/431342249?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EXF+
-http://39.119.199.218:9981/stream/channelid/1586859208?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",TVasia+
-http://39.119.199.218:9981/stream/channelid/27947534?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",스마일TV+
-http://39.119.199.218:9981/stream/channelid/817510840?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SBSFunE
-http://39.119.199.218:9981/stream/channelid/737076568?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBC에브리원
-http://39.119.199.218:9981/stream/channelid/1451734927?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",WeeTV
-http://39.119.199.218:9981/stream/channelid/391658285?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBC드라마넷
-http://39.119.199.218:9981/stream/channelid/847618517?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",GS MY 샵
-http://39.119.199.218:9981/stream/channelid/816845632?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SBS플러스
-http://39.119.199.218:9981/stream/channelid/691398781?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",쇼핑엔티
-http://39.119.199.218:9981/stream/channelid/796164175?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",드라마큐브
-http://39.119.199.218:9981/stream/channelid/1949314501?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",드라마H
-http://39.119.199.218:9981/stream/channelid/662799913?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",AXN
-http://39.119.199.218:9981/stream/channelid/682398999?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SK stoa
-http://39.119.199.218:9981/stream/channelid/1787334168?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",FOX채널
-http://39.119.199.218:9981/stream/channelid/1974895179?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBC ON
-http://39.119.199.218:9981/stream/channelid/602717559?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",스크린
-http://39.119.199.218:9981/stream/channelid/1362959462?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",W쇼핑
-http://39.119.199.218:9981/stream/channelid/524035061?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CH.CGV
-http://39.119.199.218:9981/stream/channelid/1867679690?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",슈퍼액션
-http://39.119.199.218:9981/stream/channelid/1600647552?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",OCN
-http://39.119.199.218:9981/stream/channelid/876764819?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",채널J
-http://39.119.199.218:9981/stream/channelid/811980733?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",KBS W
-http://39.119.199.218:9981/stream/channelid/1132968835?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",JTBC4
-http://39.119.199.218:9981/stream/channelid/864855811?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",XtvN
-http://39.119.199.218:9981/stream/channelid/193692346?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",패션N
-http://39.119.199.218:9981/stream/channelid/770342647?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",채널이엠
-http://39.119.199.218:9981/stream/channelid/687728580?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EdgeTV
-http://39.119.199.218:9981/stream/channelid/1597995410?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",올리브
-http://39.119.199.218:9981/stream/channelid/622299385?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",인디필름
-http://39.119.199.218:9981/stream/channelid/1621311349?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",COOK TV
-http://39.119.199.218:9981/stream/channelid/647529165?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",쿠키건강
-http://39.119.199.218:9981/stream/channelid/121104908?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",KBS joy
-http://39.119.199.218:9981/stream/channelid/665126603?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CMC가족오락
-http://39.119.199.218:9981/stream/channelid/1527902807?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",코미디TV
-http://39.119.199.218:9981/stream/channelid/1818930397?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SBS MTV
-http://39.119.199.218:9981/stream/channelid/1660222724?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Xws
-http://39.119.199.218:9981/stream/channelid/1946483538?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",큐브TV
-http://39.119.199.218:9981/stream/channelid/425723669?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",K star
-http://39.119.199.218:9981/stream/channelid/145376753?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EtN
-http://39.119.199.218:9981/stream/channelid/1251883240?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Mnet
-http://39.119.199.218:9981/stream/channelid/48595694?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",메조라이브
-http://39.119.199.218:9981/stream/channelid/1283567412?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CNTV
-http://39.119.199.218:9981/stream/channelid/1445544752?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",채널칭
-http://39.119.199.218:9981/stream/channelid/560809071?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",생활체육TV
-http://39.119.199.218:9981/stream/channelid/1388441353?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBC스포츠+
-http://39.119.199.218:9981/stream/channelid/128757041?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",빌리어즈TV
-http://39.119.199.218:9981/stream/channelid/1547178527?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SBS스포츠
-http://39.119.199.218:9981/stream/channelid/1344688851?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",IB스포츠
-http://39.119.199.218:9981/stream/channelid/884558554?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SKY스포츠
-http://39.119.199.218:9981/stream/channelid/1683028604?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SPOTV
-http://39.119.199.218:9981/stream/channelid/318598863?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SPOTV+
-http://39.119.199.218:9981/stream/channelid/919429452?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SPOTV2
-http://39.119.199.218:9981/stream/channelid/1345438428?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",JTBC골프
-http://39.119.199.218:9981/stream/channelid/1876351371?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",JTBC3
-http://39.119.199.218:9981/stream/channelid/108837453?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SBS골프
-http://39.119.199.218:9981/stream/channelid/848018260?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",K바둑
-http://39.119.199.218:9981/stream/channelid/963788501?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",골프채널코
-http://39.119.199.218:9981/stream/channelid/897904523?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",스크린골프
-http://39.119.199.218:9981/stream/channelid/1298370017?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",바둑TV
-http://39.119.199.218:9981/stream/channelid/283309012?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",fun TV
-http://39.119.199.218:9981/stream/channelid/1429751358?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",OGN
-http://39.119.199.218:9981/stream/channelid/1026249610?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",대한생활체
-http://39.119.199.218:9981/stream/channelid/1955524751?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",YTNlife
-http://39.119.199.218:9981/stream/channelid/1913667916?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",스포티비게
-http://39.119.199.218:9981/stream/channelid/1186128763?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",브레인TV
-http://39.119.199.218:9981/stream/channelid/921267203?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",하이라이트
-http://39.119.199.218:9981/stream/channelid/1959434628?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",FTV
-http://39.119.199.218:9981/stream/channelid/1336841976?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",스카이트래
-http://39.119.199.218:9981/stream/channelid/1349772737?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",챔프
-http://39.119.199.218:9981/stream/channelid/1621517220?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",KBS키즈
-http://39.119.199.218:9981/stream/channelid/2128792275?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",재능TV
-http://39.119.199.218:9981/stream/channelid/1826059677?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",니켈로디언
-http://39.119.199.218:9981/stream/channelid/194076016?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",투니버스
-http://39.119.199.218:9981/stream/channelid/1163104342?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EBS잉글리쉬
-http://39.119.199.218:9981/stream/channelid/464723939?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",플레이런TV
-http://39.119.199.218:9981/stream/channelid/44366309?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",디즈니채널
-http://39.119.199.218:9981/stream/channelid/712119148?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",카툰네트워
-http://39.119.199.218:9981/stream/channelid/383338821?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",애니박스
-http://39.119.199.218:9981/stream/channelid/60707303?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",애니맥스
-http://39.119.199.218:9981/stream/channelid/1728517418?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",어린이TV
-http://39.119.199.218:9981/stream/channelid/792587702?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",EBSKids
-http://39.119.199.218:9981/stream/channelid/522114836?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",육아방송
-http://39.119.199.218:9981/stream/channelid/438574297?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",OUN
-http://39.119.199.218:9981/stream/channelid/1248337720?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",리얼TV
-http://39.119.199.218:9981/stream/channelid/879074265?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBNPlus
-http://39.119.199.218:9981/stream/channelid/1108326763?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",마운틴TV
-http://39.119.199.218:9981/stream/channelid/290195459?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Ch View
-http://39.119.199.218:9981/stream/channelid/540103914?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",채널A플러
-http://39.119.199.218:9981/stream/channelid/735338863?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",한국경제TV
-http://39.119.199.218:9981/stream/channelid/1020722951?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",이데일리
-http://39.119.199.218:9981/stream/channelid/525071712?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",매일경제TV
-http://39.119.199.218:9981/stream/channelid/1669985711?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",티브이조선
-http://39.119.199.218:9981/stream/channelid/545507133?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MTN
-http://39.119.199.218:9981/stream/channelid/618934915?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",동아TV
-http://39.119.199.218:9981/stream/channelid/1525393172?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",리빙TV
-http://39.119.199.218:9981/stream/channelid/1518803408?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CNN
-http://39.119.199.218:9981/stream/channelid/304086781?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",NHK
-http://39.119.199.218:9981/stream/channelid/197841752?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",BBC
-http://39.119.199.218:9981/stream/channelid/489395183?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",디스커버리
-http://39.119.199.218:9981/stream/channelid/1263321025?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",애니멀플래
-http://39.119.199.218:9981/stream/channelid/791574433?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",아리랑TV
-http://39.119.199.218:9981/stream/channelid/1262264849?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CCTV4
-http://39.119.199.218:9981/stream/channelid/1324327040?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CGTN
-http://39.119.199.218:9981/stream/channelid/18769111?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",라이프타임
-http://39.119.199.218:9981/stream/channelid/1673661364?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",소상공인방
-http://39.119.199.218:9981/stream/channelid/1950636732?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",tbs
-http://39.119.199.218:9981/stream/channelid/2136254136?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Sky펫파크
-http://39.119.199.218:9981/stream/channelid/970744?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",SKYDram
-http://39.119.199.218:9981/stream/channelid/1622529763?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MBCNET
-http://39.119.199.218:9981/stream/channelid/2113696234?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",사이언스TV
-http://39.119.199.218:9981/stream/channelid/1327090837?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",국방TV
-http://39.119.199.218:9981/stream/channelid/286870921?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CBS
-http://39.119.199.218:9981/stream/channelid/1447552704?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",CTS
-http://39.119.199.218:9981/stream/channelid/394080155?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",C채널
-http://39.119.199.218:9981/stream/channelid/1242596590?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",BTN불교TV
-http://39.119.199.218:9981/stream/channelid/1406873062?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",STB상생방송
-http://39.119.199.218:9981/stream/channelid/56063516?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",평화방송
-http://39.119.199.218:9981/stream/channelid/5936471?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",복지TV
-http://39.119.199.218:9981/stream/channelid/2015380137?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",BBS불교방송
-http://39.119.199.218:9981/stream/channelid/571968803?profile=pass
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png",BS NTV
+http://203.162.235.41:16912
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg",BS TBS
+http://93.190.139.34:8278/streams/d/bstbs_japan/playlist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg",BS TOKYO
+http://203.162.235.41:16915
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",FUJI TV
+http://93.190.139.34:8278/streams/d/fujitv_japan/playlist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",NHK BS PREMIUM (2)
+http://93.190.139.34:8278/streams/d/nhkpremium_japan/playlist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK E TV
+http://93.190.139.34:8278/streams/d/nippontv_japan/playlist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg",NTV NEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBS TV
+http://203.162.235.41:16907
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 1
+http://93.190.139.34:8278/streams/d/tokyomx_japan/playlist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",TV ASAHI
+https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8
+#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",TV TOKYO
+http://93.190.139.34:8278/streams/d/tokyotv_japan/playlist.m3u8
 
