@@ -1419,6 +1419,23 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Sw1rCgm.png",Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/CPdrEIm.png",CN HD+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Cartoon_Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wIAZh19.jpg",ANIMAX HD
+http://iptvtree.net:8080/13354/27c12697/157486?play_token=xLlm45q8Ln&token=ShUNAEFcElxEAQZVCAhbUAVXAQVXDgQLUlBWBwZSU1QCDgdVUwwDB1AaGEZKTREDAFhpWAUVDwgDBldaAU5DFkJSFz5bUBJcRA0FUA0LQUpDQV9cBBUPCAMIWlUOV1FRBRtHEVtQElxECQFdCg5BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLW1dRFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1FAG0AMDF9eEQ5Aa0APAhoORgAMUVFDSA=="
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wIAZh19.jpg",ANIPLUS HD
+http://iptvtree.net:8080/13354/27c12697/157566?play_token=h1xpFYhsTR&token=ShUNAEFcElxEDQxWAFwBAgVRD1MCAFZfBglSWg5WVwcBD1MHUA0HVQMaGEZKTREDAFhpWAUVDwgDBlZUAU5DFkJSFz5bUBJcRA0FUA0LQUpDQV9cBBUPCAMIWlUOV1FQARtHEVtQElxECg1TDwxBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVFVZFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1FAG0AMDF9eEQ5Aa0APAhoORgwMU1NDSA=="
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.ibb.co/jJskL2R/Disney-channel.png",DISNEY CHANEL
