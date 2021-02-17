@@ -1662,11 +1662,11 @@ EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BXnUONl.png",Sky Sp
 http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34739
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/TJHbMcu.png",RMC 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 1
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/TJHbMcu.png",RMC 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 2
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/TJHbMcu.png",RMC 3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 3
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSportsSelect1HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
@@ -2963,6 +2963,14 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/5.m3u8
 https://raw.githubusercontent.com/raizoML/new/main/freeview/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png",Hello
 https://raw.githubusercontent.com/raizoML/new/main/freeview/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.imgur.com/twMKgz9.png",ASSP1(back Up)
+http://185.238.0.145:1313/c/g/astrosupersoprt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.imgur.com/twMKgz9.png",ASSP2(back Up)
+http://185.238.0.145:1313/c/g/astrosupersoprt2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.imgur.com/twMKgz9.png",ASSP3(back Up)
+http://185.238.0.145:1313/c/g/astrosupersoprt3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.imgur.com/twMKgz9.png",ASSP4(back Up)
+http://185.238.0.145:1313/c/g/astrosupersoprt4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.imgur.com/twMKgz9.png",ASSP4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.imgur.com/twMKgz9.png",ASSP3
@@ -4145,6 +4153,9 @@ http://tyciptv.site:8080/test-2ddd5c/43bf/1937
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/aptVKwJ.png",FR: RMC SPORT News HD
 http://tyciptv.site:8080/test-2ddd5c/43bf/6239
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",Astro Prima
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria
@@ -4283,61 +4294,61 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",鍑ゅ嚢璧勮
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",鍑ゅ嚢鍗涓枃鍙�
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",鍑ゅ嚢鍗涓枃鍙�
 http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",鍑ゅ嚢棣欐腐鍙癏D
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",鍑ゅ嚢棣欐腐鍙癏D
 http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",鍑ゅ嚢鍗棣欐腐鍙�
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",鍑ゅ嚢鍗棣欐腐鍙�
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",槌冲嚢棣欐腐
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",槌冲嚢棣欐腐
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",TV2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Rtb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Rtb
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Prima
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Prima
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Ria
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Ria
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",JADE TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",JADE TV
 http://m.567it.com/jade.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Awani
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",BeritaHK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",BeritaHK
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",ViuTv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",ViuTv
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",FOX304
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",FOX304
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",BoolywoodMovie
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",BoolywoodMovie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",AustraliaChanel
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",AustraliaChanel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",BolywoodTv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",BolywoodTv
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",WauHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",WauHD
 http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Movietime
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Movietime
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",PrimaTv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",PrimaTv
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Setanta
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Setanta
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Cnbc6
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Cnbc6
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",Kix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",Kix
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",MakkahTv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",MakkahTv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",AstroCeria
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",AstroCeria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",FoxMovies
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",FoxMovies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",RTM berita
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",RTM berita
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",RTM Sports
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/9FwsZ5U.jpg",AstroCNA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia_TV" tvg-logo="https://i.imgur.com/14ch06e.jpg",AstroCNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
