@@ -2027,6 +2027,106 @@ https://da.gd/cinew
 
 
 
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ASSP 1 
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",AstroSport1
+http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ASSP 2 
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",AstroSport2
+http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795037
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ASSP 3 
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",AstroSport3
+http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ASSP 4 
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",AstroSport4
+http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795039
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",TruePremier1 TH
+https://mediasv.online/live/trueepl1/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",TruePremier2 TH
+https://mediasv.online/live/trueepl2/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",TruePremier3 TH
+https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",BEINSPORT1 TH
+https://mediasv.online/live/bein1/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",BEINSPORT2 TH
+https://mediasv.online/live/bein2/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Foxsport1
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Foxsport2
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Foxsport3
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13",beIN Sport 1
+https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13",beIN Sport 2
+https://fikrulmkc.my.id/bagus/usee-bein2.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13",NBA
+https://fikrulmkc.my.id/bagus/usee-nba.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png",ChampionTV 1
+https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png",Champion TV 2
+https://fikrulmkc.my.id/bagus/usee-champion2.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13",Fox Sport 1
+https://fikrulmkc.my.id/bagus/usee-foxsport1.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13",Fox Sport 2
+https://fikrulmkc.my.id/bagus/usee-foxsport2.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13",Fox Sport 3
+https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14",Golf+
+https://fikrulmkc.my.id/bagus/usee-golfplus.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13",Useesports 1
+https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png",Useesports 2
+https://fikrulmkc.my.id/bagus/usee-useesports2.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13",eGG TV
+https://fikrulmkc.my.id/bagus/usee-egg.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Skynet Sport1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Skynet Sport2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Skynet Sport3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Skynet Sport4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Skynet Sport5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Skynet Sport6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",TvMatic Sport
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",SportTv1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",SportTv2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",SportTv3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",SportTv4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",SportTv5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Match1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Match2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Match3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ytson1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",@YTSON2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Elta1
+http://z1.ubtvfans.com/live/192/92b8ba92099d77c6a275a12733a426d0/index.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",Eleven 2
+http://z1.ubtvfans.com/live/301/4d83520f38443300543822bfcecd00b5/index.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",EltaSport
+http://z1.ubtvfans.com/live/52/ab48dee26a289c6158f3037228be59bf/index.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ElevenSport1
+http://z1.ubtvfans.com/live/1133/e06fbd1e116bf59cc6ef35ea9cdc23d6/index.m3u8
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",PTVsport
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",FOX SPORTS 1 TH
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",FOX SPORTS 3 Thai
@@ -2131,222 +2231,7 @@ http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",astro SuperSport 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/121857
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports 2 HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/121858
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports + HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/121856
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports SD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34609
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34610
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/51364
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports 2 HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34612
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports 2 FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34614
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Directv Sports + FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34616
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports SD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34621
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports FHD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34622
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 SD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34623
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 FHD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34624
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 3 SD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34625
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 3 FHD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34626
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports SD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34627
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34628
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports FHD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34629
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 1 SD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34630
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 1 HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34631
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 1 FHD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34632
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34634
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 FHD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34635
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 3 SD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34636
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 3 HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34637
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports SD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34639
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34640
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34641
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 SD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34642
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34643
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 3 SD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34645
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 3 HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34646
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports Premium FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34648
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 1 HD (US)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34649
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Fox Sports 2 HD (US)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34650
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sporting HD (CL)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34681
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TNT Sports HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34683
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TNT Sports FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34684
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TyC Sports  SD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34685
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TyC Sports HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34686
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TyC Sports FHD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34687
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",TyC Sports Internacional HD (ARG)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34688
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Win Sports SD (CO)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34689
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Win Sports FHD (CO)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34690
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",AYM Sports SD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34697
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Adrenalina Sport Network FHD (MX)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34699
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BT Sport ESPN FHD (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34708
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",EuroSport 1 HQ (ES)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34709
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",EuroSport 2 HQ (ES)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34710
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports Ñ HQ (ES)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34717
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 1 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34718
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 2 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34719
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 3 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34720
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 4 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34721
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 5 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34722
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 6 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34723
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 7 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34724
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 8 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34725
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 9 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34726
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 10 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34727
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 11 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34728
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",b31N Sports 12 HQ (AR)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34729
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Action HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34730
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Arena HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34731
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Cricket HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34732
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Football HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34734
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Golf HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34735
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Main Event HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34736
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Mix HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34737
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports News HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34738
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",Sky Sports Premier League HQ (UK)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34739
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BO: Tigo Sports 1 FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35539
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BO: Tigo Sports 2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35540
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BO: Tigo Sports 3 FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35543
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",EC: DirecTV Sports HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43430
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",EC: DirecTV Sports FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43431
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: Fox SPorts 2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44059
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: Fox SPorts HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44060
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: SPorTV 2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44068
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: SPorTV 3 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44069
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: SPorTV HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44070
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: Band Sports
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44079
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: Fox Sports
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44086
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: SporTV 2
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44087
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: SporTV 3
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44088
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",BR: SporTV
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/44089
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ES: Bein Sports Ñ HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/61986
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ES: Eurosport 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/62035
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ES: Eurosport 1 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/62036
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ES: Eurosport 1 FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/62037
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",ES: Eurosport 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/62038
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Ginx eSports HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43641
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: CBS Sports News HQ HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43686
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Eleven Sports Network HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43722
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox College Sports Atlantic HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43741
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports SUN HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43754
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Detroit HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43758
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports FS2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43760
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Florida HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43761
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Indiana HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43762
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Kansas HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43763
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Oklahoma HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43764
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Ohio HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43765
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports Tampa HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43769
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Fox Sports West HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43770
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Motorsport HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43804
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Sportsman HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43877
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",US: Sportsnet Y HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/43878
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/hHwEkPx.png",beIN Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD[AR]
@@ -3208,929 +3093,13 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Accion Classics FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50572
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Ciencia Ficcion FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50573
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Horror Classics HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50574
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Comedia FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50575
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema DC Comics FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50576
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema DC Universe HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50577
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Disney Family FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50578
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Disney Pixar FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50579
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Dreamworks FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50580
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Familia FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50581
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Happy Madison FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50582
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Horror FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50583
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Lego Movies FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50584
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Marvel Animated FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50585
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Marvel Studios FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50586
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Navidad FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50587
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cocina Abierta FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50588
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cuentos de la Cripta SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50589
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",DC Hero Super Girls FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50590
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Agreetsuko HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50591
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Death Note HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50592
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Detective Conan FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50593
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dinosaurios SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50594
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Disney Live Action FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50595
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Disney Princess FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50596
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Z Movies FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50597
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Laboratorio de Dexter SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50598
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Futurama HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50599
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Happy tree friends FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50601
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",HEY Kids FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50602
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",House of Mouse SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50603
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Jimmy Neutron SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50604
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Kung Fu Panda HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50606
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Casa de Mickey Mouse HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50607
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Guardia del Leon FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50608
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Sirenita HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50609
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Tropa Goofy HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50610
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Lilo & Stitch SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50611
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Lo Mejor de Donald SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50612
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Lo Mejor de Mickey SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50613
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Cazafantasmas SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50614
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Locos Adams
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50615
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Simpsons FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50616
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Simpsons Horror HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50617
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Simpsons Retro SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50618
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Masha y el Oso HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50620
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Moviecenter Kids FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50622
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Moviecenter Premium FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50623
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Moviecenter Premium Este FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50624
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Moviecenter Premium Oeste FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50625
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Paw Patrol FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50626
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Peppa Pig FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50627
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pinguinos de Madagascar HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50628
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pocoyo FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50630
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Rick y Morty FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50631
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",South Park FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50632
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Talking Tom FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50633
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",31 Minutos HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50635
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Sailor Moon SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50636
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pato Aventura SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50637
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Quack Pack SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50638
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Animaniacs SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50640
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Tiny Toons SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50642
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Un Show Mas HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50643
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Z: Saga Saiyajin
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34405
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cantiflas SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34407
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Futurama SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34408
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chespirito SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34412
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Game Of Thrones FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34415
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Simpsons SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34416
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los supersonicos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34417
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Super Campeones SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34420
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Pinguinos de madagascar HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34422
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon ball GT SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34424
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Películas Estrenos 2019 FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34425
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Harry Potter HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34426
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Teen Titans Go FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34427
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chernobyl HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34428
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Películas de acción FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34430
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Batman Del Futuro SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34432
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Avengers FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34433
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Rápidos y Furiosos FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34436
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Volver al Futuro FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34437
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Spartacus SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34438
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Saw FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34439
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",John Wick FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34440
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pantera Rosa OLD SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34443
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Bob Esponja SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34445
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chespirito SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34448
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Doraemon SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34451
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Looney Tunes SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34455
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Naruto SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34456
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",One Punch Man SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34457
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Infantiles SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34458
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pokemon SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34459
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Samurai X SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34460
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Yu-Gi-Oh SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34464
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34466
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Games of Thrones HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34467
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Sakura SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34471
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mr. Bean SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34472
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chapulin Colorado SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34473
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Chavo del 8 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34474
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Alf SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34475
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Scooby Doo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/34476
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Jurassic Park FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35444
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",SAW SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35445
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Teen Titans Go SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35446
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Z
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35448
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",The Big Bang Theory SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35452
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Avengers SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35453
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",CANTINFLAS (M) SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35454
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon ball GT FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35455
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",MOVIE TV MISTERIO FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35456
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Volver al futuro FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35459
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Game Of Thrones (Dual) SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35460
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los super campeones SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35461
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Garfield SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35462
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Family Guy SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35463
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Principel del Rap SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35465
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mr Bean SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35466
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",South Park SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35468
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",The Big Bang Theory 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35469
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Tom y Jerry SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35470
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Peppa Pig HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35480
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Looney Tunes Platinum SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35481
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Ben 10: Fuerza Alienigena HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35482
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Daniel El Travieso SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35483
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Tom y Jerry SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35484
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las Nuevas Aventuras De Hi-Man SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35485
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hi-Man SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35486
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Transformers SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35487
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pinky ElMyra Y Cerebro SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35488
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Ricochet Rabbit & Droop A Long SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35489
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Thundercat SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35490
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Star Trek
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35491
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Sony Y Su Banda SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35492
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Scooby Doo: Dónde estás? SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35493
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Robotech SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35494
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Pájaro Loco SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35495
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Batman HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35496
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Picapiedras SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35497
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Pantera Rosa SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35498
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Fenomenoide SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35500
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Pequeña LuLú SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35501
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Don Gato y Su Pandilla SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35502
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Conde Patula SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35504
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Coraje "El Perro Cobarde" SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35505
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Gasparin Y Sus Amigos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35506
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cantinflas Show SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35507
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",South Park HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35509
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Phineas Y Ferb HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35510
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Patoaventura 2017 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35511
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Padre De Familia HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35512
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Miraculous: Las Aventura De Ladybug HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35513
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Ley De Milo Murphy HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35514
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Gravity falls HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35515
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chapulín Colorado Animado HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35516
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Bob Esponja HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35517
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",PatoAventuras 1987 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35518
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Megaman SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35522
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Malcolm HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35523
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Caballeros Del Zodiaco HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35524
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hey Arnold SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35525
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Show De Looney Tunes HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35526
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Duck Dodgers HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35527
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon ball Super HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35528
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon ball  Gt HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35529
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Digimo Adventure SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35530
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Ben 10 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35531
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Baron Rojo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35532
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png", Scooby Doo HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35533
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Ranma 1/2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35534
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Halcones Galáctico SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35535
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Exponiendo Infieles SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49158
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Caso Cerrado Inmigracion SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49159
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Caso Cerrado La Familia 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49160
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Caso Cerrado La Familia 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49161
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Caso Cerrado La Familia 3 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49162
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Laura Bozzo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49163
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Miguelito SD (Chile)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49164
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Lo Que Callamos Las Mujeres SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49165
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mayday Catastrofes Aereas SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49166
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Alienigenas Ancestrales SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49167
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Mundo De Beakman Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49168
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Mundo De Beakman Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49169
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Mundo De Beakman Temp 3 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49170
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Mundo De Beakman Temp 4 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49171
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49172
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49173
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 3 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49174
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 4 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49175
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 5 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49176
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 6 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49177
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Castle Temp 7 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49178
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",CSI Miami Temp 1-5 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49179
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",CSI Miami Temp 6-10 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49180
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",NCIS Los Angeles SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49181
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Magnificos Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49182
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Magnificos Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49183
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Auto Fantastico SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49184
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Auto Fantastico (2008) SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49185
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",MacGiver (2016) Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49186
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",MacGiver (2016) Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49187
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",ER Sala de Urgencias SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49188
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Porcel Y Olmedo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49189
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los 3 Chiflados SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49190
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pedro Infante SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49191
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hechizada Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49192
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hechizada Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49193
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hechizada Temp 3 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49194
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hechizada Temp 4 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49195
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hechizada Temp 5 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49196
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hechizada Temp 6 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49197
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Niñera Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49198
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Friends Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49199
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Friends Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49200
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hannah Montana Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49201
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Paso A Paso SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49203
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Hora Pico SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49204
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Familia Peluche SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49206
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Vecinos Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49207
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Vecinos Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49208
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Vecinos Temp 3 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49209
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Vecinos Temp 4 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49210
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Vecinos Temp 5 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49211
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Full House Temp 1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49212
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Full House Temp 2 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49213
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Paradise PD SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49214
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragones de Berck SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49215
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Brickleberry SD (+15)
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49217
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Barney y sus Amigos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49219
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Automan SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49220
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Animaniacs SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49221
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Autobus Magico SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49222
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Bubble Guppies SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49224
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Donde esta Wally SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49225
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dora la Exploradora SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49226
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dora y sus Amigos en la Ciudad SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49227
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Agente Oso SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49228
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Laboratorio de Dexter SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49230
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Equipo Umizoomi SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49231
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Fabulas de Esopo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49232
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Casa de Mickey Mouse SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49233
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Doctora Juguete SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49234
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las Pistas de Blue SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49235
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Paw Patroll SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49236
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",She-Ra La Princesa del Poder SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49239
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Capitan America y Los Planetarios SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49240
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Sailor Moon SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49241
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las Guerreras Magicas SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49242
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las Tortugas Ninja SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49243
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Angry Birds Toons SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49244
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Aladino SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49245
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Birdman SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49246
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Gargolas Heroes Goticos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49247
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Spiderman SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49248
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Super Mario Bross 3 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49249
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Castores Cascarrabias SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49250
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Beast Wars SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49251
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Beast Wars Machines SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49252
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Gi Joe SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49253
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Rugrats Aventura en Pañales SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49254
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Capitan Cabernicola SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49256
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Jhonny Bravo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49257
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Vaca y el Pollito SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49258
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Años Maravillosos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49259
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las Aventuras de Tin Tin SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49260
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Inspector Gadget SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49261
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Oso Yogui SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49262
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Muppet Babys SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49263
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Candy Candy SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49264
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Familia Meñique SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49265
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Reto de los Super Amigos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49267
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Fenomenoide SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49268
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Hormiga y el Oso Hormiguero SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49269
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Pais de Donkey Kong SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49270
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Super Libro SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49271
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los 7 Pecados Capitales SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49272
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Timon & Pumbaa SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49273
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Casa de los Dibujos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49274
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Gallo Claudio SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49275
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Heathcliff SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49276
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Sonic X SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49280
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Street Sharks SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49281
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Generador Rex SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49282
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Gatos Samurai SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49283
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Osos Gummi SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49284
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Liga del Dragon VHSRip SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49285
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Megaman NT Warrior SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49286
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Xena La Princesa Guerrera SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49287
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hercules Los Viajes Legendarios SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49288
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Liveman SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49289
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Narrador de Cuentos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49290
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",1000 Maneras de Morir SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49291
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Oxlack Investigador Paranormal SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49292
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Contacto Extranormal SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49293
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Historias de Ultratumba SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/49294
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Smallville SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/50649
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Marvel Studios Este FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58067
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Marvel Studios Oeste FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58068
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cinema Anime [test] FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58069
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Retro Simpsons HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58071
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",31 Minutos SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58073
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Camaras Escondidas TV ⁽ᴴᴰ⁾
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58075
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Bob Esponja SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58076
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",YooHoo and Friends HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58079
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Donald Channel SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58081
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58082
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball 2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58083
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball GT SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58084
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Duck Dodgers SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58085
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Pajaro Loco SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58086
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Fenomenoide SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58087
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Gallo claudio SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58088
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Amazon Kids (Test) FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58090
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Happy Halloween Kids HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58091
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Novasur HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58092
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Huevos Verdes con Jamon HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58094
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Teen Titans GO FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58095
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Little Pet Shop HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58096
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Show de Garfield FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58097
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Timon y Pumba SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58099
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mickey Mouse
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58100
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Lo Mejor de Pluto SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58101
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Doug SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58103
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58105
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58106
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Super 3 Saga de la Supervivencia Universal HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58107
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Doraemon FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58108
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Supercampeones HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58109
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Gatos Samurai SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58110
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Croods HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58111
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Picapiedras SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58112
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Street Shark SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58114
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",She-ra SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58115
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Looney Tunes Show FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58116
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Looney Tunes HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58117
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Grupo Increible SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58119
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Chavo HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58120
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chespirito TV
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58121
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Sam y Cat HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58122
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mr.Bean SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58123
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",TWD Channel FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58125
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Buenazo TV FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58126
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cocina Real TV FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58127
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Riquisimo FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58128
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mega Gourmet HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58129
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",13 Docu SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58130
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hagalo Usted Mismo TV
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58131
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Resistencia FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58134
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Resistencia Canal 2 FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58135
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",ALF SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58260
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Animaniacs SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58262
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 Beetlejuice FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58263
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cantinflas HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58264
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Caso Cerrado HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58265
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Coraje SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58267
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Daniel el travieso SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58268
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dinky Dog SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58269
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball GT HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58271
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dragon Ball Super HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58273
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Drama Total SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58276
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Fantastico Max SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58277
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Chavo Del 8 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58278
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Escuadron De Super Heroes SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58279
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Gato Felix HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58280
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 El General Naranjo HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58281
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Hijo de Frankenstein SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58282
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Jinete Sable y los comisarios estrella SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58283
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Principe De lRap SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58284
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Principe Del Rap 2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58285
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Reto De Los Super Amigos HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58286
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Escuela de Heroes SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58288
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Especiales de Halloween 2019 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58289
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Foofur HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58290
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Friends HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58291
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Harvey Birdman El Abogado SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58294
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Heathcliff SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58295
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Hong Kong Phooey SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58296
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las aventuras de Tom Sawyer SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58298
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Las Nuevas Peliculas De Scooby Doo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58300
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Caballeros del Zodiaco SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58301
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Cazafantasmas SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58302
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Cuentos De La Calle Broca SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58303
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Dragones de la Mesa Cuadrada SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58304
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Gatos Samurai SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58305
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Locos Addams SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58306
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los peligros De Penelope Glamour SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58307
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los peligros De Penelope Glamour SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58308
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los pequeños Looney Tunes HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58309
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los pequeños Tom y Jerry SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58310
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Picapiedras SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58311
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 Los Simpsons HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58314
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Super Globetrotters SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58315
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",MALCOLM SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58317
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mi Monstruito SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58319
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pajaro Loco HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58322
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Abbott y Costello SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58157
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Timon y Pumba HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58230
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",The Big Bang Theory FHD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58228
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Supercampeones SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58223
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Shurato SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58220
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Seabert SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58218
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pulgarcito Investigador Privado SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58215
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Pequeños Planetas HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58212
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mighty Ducks SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58210
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mi pobre angelito SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58209
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Los Imposibles SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58208
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Loop y De Loop SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58149
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Looney Tunes  1 SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58207
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La ranita Demetan SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58203
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Guerra de Sakura SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58201
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Granja SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58200
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",La Familia Proud SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58198
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Kidd-Video SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58194
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Historias De Fantasmas HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58190
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",He Man SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58189
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Guerra De Bestias Transformers SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58188
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Gasparin y los Angeles SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58187
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Full metal Alchemist HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58185
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Fábulas del Bosque Verde SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58186
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Espíritu de lucha HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58182
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Elfen Lied HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58181
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El valle de los dinosaurios SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58180
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El show de Scooby Doo y ScrappyDoo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58179
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",El Principe del Tenis SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58178
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dr House HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58177
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dog City HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58176
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",DNA² SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58175
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Dartacán y los tres mosqueperros SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58174
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Cowboy Bebop HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58173
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Clue Club SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58172
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chicos Del Barrio HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58171
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Chica Marioneta SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58169
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Capitan Futuro SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58167
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Capitán Centella SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58168
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Burst Angel HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58166
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Bandidos en el tiempo SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58164
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Bailando con vampiros HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58163
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Aventuras de un lobo adolescente SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58162
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Archie y Sabrina la Hechicera SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58161
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Angel la niña de la flores SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58160
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",American Dad 2 HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58159
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Almendrita SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58158
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Zoids Fuzors SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58237
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",X Men Evolution SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58236
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Wolfs Rain SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58235
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Transformers Prime HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58233
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Tokko HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58231
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 La Tortuga DArtagnan y DumDum SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58204
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 Locos Dieciséis SD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58206
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 Oban Star-Racers HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58211
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 Saikano HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58217
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 SuperGirl HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58224
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",11 Tarzan HD
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/58226
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP1(back Up)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP1(back Up)
 http://185.238.0.145:1313/c/g/astrosupersoprt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP2(back Up)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP2(back Up)
 http://185.238.0.145:1313/c/g/astrosupersoprt2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP3(back Up)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP3(back Up)
 http://185.238.0.145:1313/c/g/astrosupersoprt3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP4(back Up)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",ASSP4(back Up)
 http://185.238.0.145:1313/c/g/astrosupersoprt4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",AstroArena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
@@ -5353,4 +4322,3 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",TV TOKYO
 http://93.190.139.34:8278/streams/d/tokyotv_japan/playlist.m3u8
-
