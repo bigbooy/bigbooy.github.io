@@ -1843,6 +1843,607 @@ http://185.238.0.145:1313/c/livedo/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",Live Sport
 https://46-21-250-207.livesports24.online/ooomatch.m3u8
 
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://static.epg.best/id/TVRI.id.png",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://gtv.id/assets/images2020/logo.png",Global TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://static.epg.best/id/Indosiar.id.png",Indosiar
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg",Jak TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="http://www.jtv.co.id/image/logojtv1.png",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png",MyTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",Net
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png",O Channel
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://static.epg.best/id/RCTI.id.png",RCTI
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png",SCTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png",Citra Entertainment
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://static.epg.best/id/MNCTV.id.png",MNC
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://static.epg.best/id/DaaiTv.id.png",Da Ai Indonesia
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",INews
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png",Kompas TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FoxActionMovies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FoxMovies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FoxFamilyMovie
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fox HD
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CelestialMovie
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CCM
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AEC
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Xiaotaiyang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HuaHeeTai
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Shuangxing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boo
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Astro prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AstroSport1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AstroSport2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AstroSport3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AstroSport4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVB
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",ChuanCia
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Astro Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tv1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tv2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tv3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Ntv7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tv8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tv9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Pure enjoy 4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Pure enjoy 4K
+http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fall in love with 4K
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Laughter Theater
+http://39.134.39.37/PLTV/88888888/224/3221226318/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",IPTV Super Clear
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",纯享4K
+http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",SiTV Laughter Theater 12M2160
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",4K Garden Life 24M2160
+http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",4K Garden Entertainment 24M2160
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",4K Garden Television 24M2160
+http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Laughter Theater 4K
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",SiTV Animation Show
+http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",SiTV Madden Sports
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",SiTV Speed ​​Car
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",SiTV Speed ​​Car
+http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",SiTV Laughter Theater
+http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Macau Information
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Macau ATV
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Macau Portuguese
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wired News
+http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-2.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cable News
+http://player.ggiptv.com:13164/v/hkcxw.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wired Finance
+http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wired Entertainment
+http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVB J2
+http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVB Galaxy
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVB Pearl TV
+http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVB Jade Channel
+http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVB News Channel
+http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Celestial Movie HD
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Celestial Classic HD
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Quanjia Channel HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Double Star Channel HD
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",BOO恐怖HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Star drama station
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",MinTV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Minshi News Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",PTS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Public Television Taiwanese
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",公视3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TTV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TTV Comprehensive
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TTV News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",China TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",China TV News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Hakka TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8825&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Aboriginal
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8824&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Extraordinary Business
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Extraordinary News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhongshi
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",China Television News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhongshi Jingcai
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhongshi Classic
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TTV Finance
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Meiya Film Station
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Satellite TV Chinese Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Satellite TV Film Station
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Satellite TV foreign film station
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Star Satellite TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Star Satellite Entertainment Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",National Geographic Wild
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Warner Movies
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Korea Entertainment Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cbeebies cartoon
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Baby TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Life Time
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Asia Tourism Station
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX MOVIES
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX CRIME
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX family
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX SPORTS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX SPORTS 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",FOX Sport 3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eleven Sports Plus
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eleven Sports 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fx Movie Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Crime Investigation
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Movement
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Sports 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Golf
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Golf 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Charm
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Tennis
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Boss Unlimited
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CNN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",MTV Taiwan
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Channel Z
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",EYE TV Travel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",NBA dynamics
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8810&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",东风37
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",年代MUCH
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Times News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",JET synthesis
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Longxiang era
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Perak Taiwan
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",MOMO parent-child station
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Guoxing TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Animal Planet
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",ANIMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",AXN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",EVE
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",DMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Travel Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HBO
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HBO HITS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HBO signature
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Asian Food Network
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HBO family
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HITS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Discovery
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Discovery Scirnce
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Discovery Asia
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",National Geographic
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TLC
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CN Cartoon Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Hollywood
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Euro Sports
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CINEMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Disney cartoon
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Sanli Theatre
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8809&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",三立iNEWS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Sanli Taiwan
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Sanli Metropolis Station
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Sanli News Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Financial News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eastern movies
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Movies
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Drama
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Supervision
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Comprehensive
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eastern Young Children
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Weilai Comprehensive
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Weilai Movie
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Weilai Yule
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Videoland Japan Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Weilai Sports
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Weilai Drama
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVBS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVBS News Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",TVBS Happy Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhongtian News
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhongtian Entertainment
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhongtian Comprehensive
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",World News Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eight comprehensive stations
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eight entertainment stations
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",The first one of the eight majors
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Eight drama stations
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",One Movie
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Gourmet Planet
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",BBC WORLD NEWS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",BBC Lifestyle
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",BBC Earth
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Food Network
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Food Network
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Baby First
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Outdoor Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",History
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",HGTV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dunhuang TV Station
+http://117.156.28.119/270000001111/1110000028/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Shanghai Metropolis HD
+http://39.134.168.76/PLTV/1/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Oriental Television HD
+http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Five Star Sports HD
+http://39.134.39.38/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Lifestyle HD
+http://39.134.168.76/PLTV/1/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Urban Theater HD
+http://39.134.186.42/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Sichuan Film and Television
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Sichuan Emei Movie
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wonderful variety show HD 2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wonderful movie HD 2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wonderful TV series HD 2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CHC Home Theater 2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CHC HD Movie 2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",CHC Action Movie 2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_9
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_66
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8810&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_67
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_411
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_412
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_413
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_414
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_415
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_416
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_417
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_418
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_419
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_420
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_421
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_422
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_423
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_424
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_425
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_426
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_427
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_428
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_429
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_430
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_431
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_432
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_433
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Unknown_434
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Phoenix Hong Kong Channel
+http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Phoenix Chinese Channel
+http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Phoenix Information Channel
+http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",ViuTV
+http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Viu1TV
+http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cable News
+http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cable movie station
+http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",18 wired
+http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wired 603 units
+http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cable Sports Channel
+http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Guangdong Sports Channel
+http://116.199.5.52:8114/00000000/hls/9.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Five-star Sports
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc000000&users /live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Winter Olympics documentary
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Winter Olympics documentary
+http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",New Vision Station HD
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Madden Sports HD
+http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Charm Football HD
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Migu Video·PP Sports 1
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Migu Video PP Sports 2
+http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Best Link Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Bestlink Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Best Link Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Best Link Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Bestlink Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Bestlink Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Best Link Sports 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Weilai Sports
+http://kltvx.5ay.xyz/ub/ub.php?id=52
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Weilai Sports
+http://kltvx.5ay.xyz/ub/ub.php?id=118
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",FOX Sport 2
+http://kltvx.5ay.xyz/ub/ub.php?id=1132
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",FOX Sport 3
+http://kltvx.5ay.xyz/ub/ub.php?id=376
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Eleven Sport 1
+http://kltvx.5ay.xyz/ub/ub.php?id=1133
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Eleven Sport 2
+http://kltvx.5ay.xyz/ub/ub.php?id=301
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Z channel
+http://kltvx.5ay.xyz/ub/ub.php?id=1130
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Real Madrid football
+http://kltvx.5ay.xyz/ub/ub.php?id=20
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Boss unlimited
+http://kltvx.5ay.xyz/ub/ub.php?id=381
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Boss Unlimited 2
+http://kltvx.5ay.xyz/ub/ub.php?id=426
+#EXTINF:-1 group-title="DTV Channel" tvg-logo="https://i.imgur.com/oPpGMdS.png",Boss Tennis
+http://kltvx.5ay.xyz/ub/ub.php?id=498
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTV-Ch ✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",CHAMPIONSPORTS 1
 https://da.gd/camp1
@@ -2025,8 +2626,276 @@ https://da.gd/cetv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="✨DTV-Ch ✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",CINEW
 https://da.gd/cinew
 
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA01
+http://139.196.144.110:80/huya11/11342412
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA02
+http://139.196.144.110:80/huya11/11342413
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA03
+http://139.196.144.110:80/huya11/11342414
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA04
+http://139.196.144.110:80/huya11/11342415
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA05
+http://139.196.144.110:80/huya11/11342416
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA06
+http://139.196.144.110:80/huya11/11342417
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA07
+http://139.196.144.110:80/huya11/11342418
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA08
+http://139.196.144.110:80/huya11/11342419
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA09
+http://139.196.144.110:80/huya11/11342420
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA10
+http://139.196.144.110:80/huya11/11342421
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA11
+http://139.196.144.110:80/huya11/11342422
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA12
+http://139.196.144.110:80/huya11/11342423
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA13
+http://139.196.144.110:80/huya11/11342424
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA14
+http://139.196.144.110:80/huya11/11342425
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA15
+http://139.196.144.110:80/huya11/11342426
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA16
+http://139.196.144.110:80/huya11/11342427
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA17
+http://139.196.144.110:80/huya11/11342428
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA18
+http://139.196.144.110:80/huya11/11342429
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",HUYA19
+http://139.196.144.110:80/huya11/11342430
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Da Zhaimen 1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dzm1
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Legend of the Condor Heroes 1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jysdyxz
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Legend of the Condor Heroes 2
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jysdyxz2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jackie Chan
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=cl
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wu Yanzu 1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wyz
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wu Yanzu 2
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wyz2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Calabash Brothers
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hlxd
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Xiaoling Toys
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=xlwj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Water Margin
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=shz
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Ode to Joy
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hls
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Liang Jiahui
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=ljh
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Aaron Kwok
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=gfc
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Lin Zhengying
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=lzy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhou Xingchi1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zxc
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Stephen Chow 2
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zxc2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Stephen Chow 3
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zxc3
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Submarine small column
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hdxzd
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Water Margin
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=shz98
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wang Wang team made great contributions
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wwdldg
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cat and Mouse
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=mhls
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Doraemon
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jqm
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",League of Legends
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yxlm
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Naruto
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hyrz
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jigong's Travels
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jg
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Wu Jing
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Journey to the West
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=xyj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",I am not a god of medicine
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wbsys
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Huang Bo
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hb
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Super Baby JOJO
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jojo
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jet Li
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=llj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zhou Runfa
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zrf2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Chow Yun Fat Cantonese
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zrf
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dawn
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=lm
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jacky Zhang
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zxy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Zheng Zhongji
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zzj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Lin Chiling
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=lzl
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Ren Dahua
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=rdh
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Andy Lau
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=ldh
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Andy Lau Classic
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=ldh2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jet Li movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=llj2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jackie Chan movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=cl2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Liu Qingyun
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=lqy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Shen Teng
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=st
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Louis Koo
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=gtl
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Nicholas Tse
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=xtf
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Leslie Cheung
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zgr
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Song Hye Kyo Song Zhongji
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=shqszj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Oscar Classic
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=ask
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",European and American heroes
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=omyx
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",European and American blockbusters
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=omdp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cantonese Paradise
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yueyutt
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cantonese variety show
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yydyzy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Police movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jfdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Cantonese film
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yueyu
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Hong Kong Films
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dygpdp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Suspense movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=xydy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Martial arts movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wxdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Parent-child hall
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=qzt
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tough Guy Hall
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yht
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Girls' Hall
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=snt
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Patriotic film
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=agyp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Patriotic Movie 1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=agdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Patriotic Movie 2
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=agdy2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Classic campus
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=xyqc
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Hot blood movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=rxdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Action movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dzdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Science fiction movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=khdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jin Yong Wuxia 1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jywx
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jin Yong Wuxia 2
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jywx2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Animation movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dhdy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Action blockbuster
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dydzdp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Comedy blockbuster
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dyxjdp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Love blockbuster
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dyaqdp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Romantic
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=lmdk
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tomb exploration
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=gmtx
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Tomb Raider Movie
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=daomu
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Red classic
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hsjd
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Happy assembly number
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hljjh
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",One stop to the end
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yzdd
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",The girl group is here
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=nvtuan
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Funny video
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=gxsp
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Military program
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jsjm
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Magical nature
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=sqddzr
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Surging China
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jdzg
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Damei China
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=dmzg
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Illustrated Book China
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=tjzg
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Chinese blind date
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zgsxq
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dreaming Love
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=zmqy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Push Hands
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=ts
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fighter of the Destiny
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=ztj
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Chu Qiao Biography
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=cqz
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fengshen Bang
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=fsb
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",The temptation of lies
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hydyh
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Fengyun 2
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=fy2
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Funny family
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=gxyjr
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Rolling Red
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=gghc
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Our 80s
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=80nd
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",If you can love this way
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=rgkyzya
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Warm strings
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wndx
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Full of Love Siheyuan
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=qmshy
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Little Pig Page 1
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=xzpq
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Jie Li Dou
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jld
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Born to be perfect
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=tsywm
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",My team leaderMy team
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=wdtzwdt
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Chow Yunfat Louis Koo
+http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yyzrfgtl
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",The era of Longxiang
+http://kltvx.5ay.xyz/ub/ub.php?id=373
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",People's TV drama
+http://kltvx.5ay.xyz/ub/ub.php?id=1023
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Movies
+http://kltvx.5ay.xyz/ub/ub.php?id=350
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsenyang film
+http://kltvx.5ay.xyz/ub/ub.php?id=1128
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Satellite TV movie
+http://kltvx.5ay.xyz/ub/ub.php?id=93
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",CinemaWorld
+http://kltvx.5ay.xyz/ub/ub.php?id=84
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Dongsen Drama
+http://kltvx.5ay.xyz/ub/ub.php?id=321
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",Star Guard movie
+http://kltvx.5ay.xyz/ub/ub.php?id=496
+#EXTINF:-1 group-title="DTV Movies" tvg-logo="https://i.imgur.com/dwnHQIa.png",AMC
+http://kltvx.5ay.xyz/ub/ub.php?id=92
 
 
+#EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.postimg.cc/GpnNnkfs/Astro-Supersport-HD.png",Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",ASSP 1 
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
 #EXTINF:-1 group-title="✨DTVCh 🆂🅿🅾🆁🆃✨" tvg-logo="https://i.imgur.com/oPpGMdS.png",AstroSport1
