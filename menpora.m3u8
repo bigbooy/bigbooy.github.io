@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+http://210.210.155.35/session/10778122-f3fe-11ea-aa6b-b82a72d63267/qwr9ew/s/s04/01.m3u8
