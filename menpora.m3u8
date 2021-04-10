@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://etslive-2-vidio-com.akamaized.net/exp=1617980166~acl=/hls-p/ingest_7676_*/*~hmac=b9ea25a3226359b53e31aa06f182eed34f5dcda4ad7da8bf65ba51dfa3cc3e89/hls-p/ingest_7676_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1618070530~acl=/hls-p/ingest_7677_*/*~hmac=061e00d887a892f92b6d82844d36fea44289136e0d91fee60262ab272cb4ffba/hls-p/ingest_7677_720p/index.m3u8
