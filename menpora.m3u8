@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://etslive-2-vidio-com.akamaized.net/exp=1618247677~acl=/hls-p/ingest_7677_*/*~hmac=34b259d60c173cb70e1da2ddf98159d357d13c6f33c528e79f480af4623b4e04/hls-p/ingest_7677_720p/index.m3u8
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
