@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1619360009~acl=/hls-p/ingest_7676_*/*~hmac=95de675ac8690bfa55cffa1a00825900df6ab9cdeaba81d6d929b68fa969b731/hls-p/ingest_7676_720p/index.m3u8
