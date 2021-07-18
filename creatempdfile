@@ -299,37 +299,37 @@ https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/8dWpOkG.png", HBO+
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES"tvg-logo = "https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1", HBO FAMILY+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/805VZdl.png", HBO FAMILY+
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1", HBO HITS+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/1yQS2ZK.png", HBO HITS+
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES"tvg-logo = "https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1", HBO SIGNATURE+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://i.imgur.com/5JyFVa8.png", HBO SIGNATURE+
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax+
+#EXTINF:-1 group-title="Movies" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax+
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png",Red By HBO
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/6KKLFmp.png",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png",Red By HBO+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3eh9whp.png",Red By HBO+
 http://eroz.hi2.ro/iptv/movies/hbo_red.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -353,12 +353,12 @@ https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/iefNtra.png", HBO
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1", HBO FAMILY
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/p5doERm.png", HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -378,7 +378,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1", HBO HITS
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/nOiPsyr.png", HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -398,7 +398,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/NHMxRlR.png", Cinemax 
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3331,29 +3331,29 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 group-title="Pilipinas" tvg-logo="https://images.squarespace-cdn.com/content/5e71ab9e744c0d5faca1944b/1586405093841-DWVAMD6LEIRTUHFG02Z1/new+logo.png",TBN Asia
 https://d3cbe0gidjd4k2.cloudfront.net/channel_4/smil:channel_4.smil/playlist.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png",MRTV
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png",MRTV
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png",MRTV 4
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png",MRTV 4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://static.epg.best/th/Channel7.th.png",Channel 7
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://static.epg.best/th/Channel7.th.png",Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png",Mahar TV
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png",Mahar TV
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png",MNTV
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png",MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",MWD
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg",MWD Variety
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg",MWD Family
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg",MWD Family
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg",MWD Shopping
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg",MWD Shopping
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg",MWD Documentary
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",MWD Movies
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 group-title="မြန်မာဘာသာ" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",MWD Series
+#EXTINF:-1 group-title="TvMyanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",MWD Series
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png",ททบ 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
@@ -3369,97 +3369,97 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="https://static.epg.best/th/PPTV.th.png",PPTV
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69 TV
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69 TV
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",Banteng 100
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",Banteng 100
 https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png",CTB
+#EXTINF:-1 group-title="Thai" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB Thai
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB Thai
 https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="http://www.onlinethailand.net/tv_online/images-full/esan-tv-full.jpg",Esan TV
+#EXTINF:-1 group-title="Thai" tvg-logo="http://www.onlinethailand.net/tv_online/images-full/esan-tv-full.jpg",Esan TV
 https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_720p/manifest.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",Happy TV
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",Happy TV
 https://edge6a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.freeetv.com/images/03_logo/M_channel_thailand.jpg",M Channel
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.freeetv.com/images/03_logo/M_channel_thailand.jpg",M Channel
 http://27.254.142.207:8080/live/web.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://news1live.com/images/news1-logo.jpg",News 1
+#EXTINF:-1 group-title="Thai" tvg-logo="https://news1live.com/images/news1-logo.jpg",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",Thai Baan
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",Thai Baan
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png",TVD2
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png",TVD2
 https://edge6a.v2h-cdn.com/appt7/TVD3.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/04/LOGO01_500x500-TVDmomo-2.jpg",TVD Mono
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/04/LOGO01_500x500-TVDmomo-2.jpg",TVD Mono
 https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/tukdee.png",Thookdee TV
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/tukdee.png",Thookdee TV
 https://edge6a.v2h-cdn.com/appt7/Sanook.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/11.jpg",V2H 11
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/11.jpg",V2H 11
 https://edge6a.v2h-cdn.com/v2h/V2H11.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/12.jpg",V2H 12
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/12.jpg",V2H 12
 https://edge6a.v2h-cdn.com/v2h/V2H12.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/13.jpg",V2H 13
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/13.jpg",V2H 13
 https://edge6a.v2h-cdn.com/v2h/V2H13.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/14.jpg",V2H 14
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/14.jpg",V2H 14
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/15.jpg",V2H 15
+#EXTINF:-1 group-title="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/15.jpg",V2H 15
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ประเทศไทย" tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png",White Channel
+#EXTINF:-1 group-title="Thai" tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 group-title="កម្ពុជា" tvg-logo="http://khmer.fyi/images/portfolio/full/freshnews.png",Fresh News
+#EXTINF:-1 group-title="Thai"  tvg-logo="http://khmer.fyi/images/portfolio/full/freshnews.png",Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="កម្ពុជា" tvg-logo="https://i.malimarcdn.com/kh/TeaTV2HD.jpg",Tea TV
+#EXTINF:-1 group-title"Thai" tvg-logo="https://i.malimarcdn.com/kh/TeaTV2HD.jpg",Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="កម្ពុជា" tvg-logo="https://lh3.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg=s180-rw",Wiki TV
+#EXTINF:-1 group-title="Thai" tvg-logo="https://lh3.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg=s180-rw",Wiki TV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/hm/cvahmongHDF.jpg",CVA
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/hm/cvahmongHDF.jpg",CVA
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/hm/hmongusatvHDF.jpg",Hmong USA
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/hm/hmongusatvHDF.jpg",Hmong USA
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/hmongstartvHDF.jpg",Hmong Star
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/hmongstartvHDF.jpg",Hmong Star
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/vajtswvHDF.jpg",Vajtswv Txojlus
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/vajtswvHDF.jpg",Vajtswv Txojlus
 https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/laomuslimtvHDF.jpg",Laos Muslim TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/laomuslimtvHDF.jpg",Laos Muslim TV
 https://livefta.malimarcdn.com/ftaedge00/ddtvlao.stream/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/airtvchannelHDF.jpg",Air TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/airtvchannelHDF.jpg",Air TV
 https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/briantvHDF.jpg",Brain TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/briantvHDF.jpg",Brain TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/DaoLaneXangHDF.jpg",Dao Lane Xang
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/DaoLaneXangHDF.jpg",Dao Lane Xang
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/DhammasaphaHDF.jpg",Dhammasapha TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/DhammasaphaHDF.jpg",Dhammasapha TV
 https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/houngfaHDF.jpg",Houngfa
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/houngfaHDF.jpg",Houngfa
 https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/ISTVv2HDF.jpg",ISTV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/ISTVv2HDF.jpg",ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/khomsanhtvHDF.jpg",Khomsahn
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/khomsanhtvHDF.jpg",Khomsahn
 https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/laothaiusHDF.jpg",Laos-Thai TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/laothaiusHDF.jpg",Laos-Thai TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg",Laos Champa TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg",Laos Champa TV
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/LaoSVTV1HDF.jpg",Laos SV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/LaoSVTV1HDF.jpg",Laos SV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/laoplanetHDF.jpg",Laos Planet TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/laoplanetHDF.jpg",Laos Planet TV
 https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/LOOKTHOONGTVNEW2HDF.jpg",Look Thoong
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/LOOKTHOONGTVNEW2HDF.jpg",Look Thoong
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/LSTV1v2HDF.jpg",LS TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/LSTV1v2HDF.jpg",LS TV
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg",Ning TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg",Ning TV
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/pntvVshowHDF.jpg",PNTV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/pntvVshowHDF.jpg",PNTV
 https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/vlctempleHDF.jpg",Sieng Khaen Lao
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/vlctempleHDF.jpg",Sieng Khaen Lao
 https://livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/TeaTvLaoHDF.jpg",Tea TV Laos
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/TeaTvLaoHDF.jpg",Tea TV Laos
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/UniquelyThaiHDF.jpg",Uniquely
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/UniquelyThaiHDF.jpg",Uniquely
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/vanphenhHDF.jpg",Vanphenh TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/vanphenhHDF.jpg",Vanphenh TV
 https://livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ລາວ" tvg-logo="https://i.malimarcdn.com/vatilaotv2016HDF.jpg",Vati Laos TV
+#EXTINF:-1 group-title="Laos" tvg-logo="https://i.malimarcdn.com/vatilaotv2016HDF.jpg",Vati Laos TV
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Việt Nam" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png",VTV 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
