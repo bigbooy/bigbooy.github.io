@@ -2374,6 +2374,220 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 
 pl sports
+#EXTM3U
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6707
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",Arena ( B )
+http://iptv.tvmalaysia.cc:80/737373/737373/9010
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6708
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/e3c388f0dceef7b0bf46c2525f8cc4f1.png",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6710
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6711
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6712
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6793
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6791
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6792
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/ff177c5033f26448c4af4c910a14984c.png",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/737373/737373/6717
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png",beIN Sports
+http://iptv.tvmalaysia.cc:80/737373/737373/6749
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png",beIN MAX
+http://iptv.tvmalaysia.cc:80/737373/737373/6748
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/737373/737373/7195
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/fe2f1947f90a1fca6f1d3c8e2f2e8054.jpg",WWE Network
+http://iptv.tvmalaysia.cc:80/737373/737373/6849
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/737373/737373/6821
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",TSN 1
+http://iptv.tvmalaysia.cc:80/737373/737373/8923
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",TSN 2
+http://iptv.tvmalaysia.cc:80/737373/737373/8924
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",TSN 4
+http://iptv.tvmalaysia.cc:80/737373/737373/8926
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",TSN 3
+http://iptv.tvmalaysia.cc:80/737373/737373/8925
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png",SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/737373/737373/6572
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png",SuperSport PSL
+http://iptv.tvmalaysia.cc:80/737373/737373/6573
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png",SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/737373/737373/6574
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png",SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/737373/737373/6575
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png",SuperSport Football
+http://iptv.tvmalaysia.cc:80/737373/737373/6576
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png",SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/737373/737373/6578
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png",SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/737373/737373/6579
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png",SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/737373/737373/6580
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png",Supersport Blitz
+http://iptv.tvmalaysia.cc:80/737373/737373/6584
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png",SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/737373/737373/6585
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png",SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/737373/737373/6582
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png",SuperSport Action
+http://iptv.tvmalaysia.cc:80/737373/737373/6581
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/e1e9009280ca2bd4f72fdced323cebae.png",SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/737373/737373/7142
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png",SuperSport Golf
+http://iptv.tvmalaysia.cc:80/737373/737373/7145
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/06d5976044ac1e15c86715663c3757f0.png",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/737373/737373/6597
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/737373/737373/6598
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg",BT Sport 1
+http://iptv.tvmalaysia.cc:80/737373/737373/6610
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg",BT Sport 2
+http://iptv.tvmalaysia.cc:80/737373/737373/6611
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg",BT Sport 3
+http://iptv.tvmalaysia.cc:80/737373/737373/6612
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/737373/737373/7112
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/737373/737373/7113
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/737373/737373/6614
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/737373/737373/6617
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/737373/737373/6618
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/737373/737373/6620
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/737373/737373/6619
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/737373/737373/7114
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/737373/737373/7115
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg",UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/737373/737373/7116
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png",MUTV
+http://iptv.tvmalaysia.cc:80/737373/737373/7236
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png",LFC TV
+http://iptv.tvmalaysia.cc:80/737373/737373/7237
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/737373/737373/7261
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",PPV Boxing
+http://iptv.tvmalaysia.cc:80/737373/737373/7263
+#KODIPROP: inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="https://i.imgur.com/6J57qAx.png",FS 1
+http://iptv.tvmalaysia.cc:80/737373/737373/9003
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dyBaG7e.jpg",SkynetSport
 http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/oPpGMdS.png",True Premier HD 1
@@ -2388,12 +2602,115 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/oPpGMdS.png",Sony Turbo
 http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/708/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8
+#EXTINF:-1 ch-id="BT SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-SNiNPhn9ei8/YNx98Jrgj1I/AAAAAAAAAHc/j4-B7PkkJUA2vxBSpmiicjbyQQMg23t8QCLcBGAsYHQ/s320/PicsArt_06-30-07.51.11.png"  group-title="Sports",BT SPORTS 1 (UK)
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 ch-id="ESPN (UK)" tvg-logo=" "  group-title=#EXTINF:-1 ch-id="BT SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-SNiNPhn9ei8/YNx98Jrgj1I/AAAAAAAAAHc/j4-B7PkkJUA2vxBSpmiicjbyQQMg23t8QCLcBGAsYHQ/s320/PicsArt_06-30-07.51.11.png"  group-title="Sports",BT SPORTS 1 (UK)
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="VIP Sports",BT SPORT2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 ch-id="BEIN SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-WY9CYbPGbFo/YNxhlAeQ--I/AAAAAAAAAGM/_9vW-hmgruAwaJ5G-0-ws_LcuXJNITiEgCLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.jpeg"  group-title="Sports",BEIN SPORTS 1 (UK)
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 ch-id="ESPN (UK)" tvg-logo=" "  group-title="Sports",ESPN (UK)
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8?Token=
+#EXTINF:-1 ch-id="TURE SPORTS HD (ASIA)" tvg-logo=" "  group-title=#EXTINF:-1 ch-id="BT SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-SNiNPhn9ei8/YNx98Jrgj1I/AAAAAAAAAHc/j4-B7PkkJUA2vxBSpmiicjbyQQMg23t8QCLcBGAsYHQ/s320/PicsArt_06-30-07.51.11.png"  group-title="Sports",BT SPORTS 1 (UK)
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 ch-id="BEIN SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-WY9CYbPGbFo/YNxhlAeQ--I/AAAAAAAAAGM/_9vW-hmgruAwaJ5G-0-ws_LcuXJNITiEgCLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.jpeg"  group-title="Sports",BEIN SPORTS 1 (UK)
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 ch-id="WB TV (TH)"  tvg-logo="https://1.bp.blogspot.com/-86vIXa2_a1E/YM9mHcmas9I/AAAAAAAAAAM/nTUM7N9YCIkKxmwDqPix8lwNfLubrIG-ACLcBGAsYHQ/s320/images.jpeg"  group-title="Sports",WB TV (THAI)
+http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 ch-id="FOX (TH)" tvg-logo="https://1.bp.blogspot.com/-KqOf_pKwh8o/YPDSeVT0toI/AAAAAAAAAgI/GUiGCHI4q7cHMsEs4DPbREKAIcNMe9XawCLcBGAsYHQ/s200/PicsArt_07-16-05.49.26.png"  group-title="Sports",FOX (TH)
+http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 ch-id="HISTORY (TH)" tvg-logo="https://1.bp.blogspot.com/-oNrrxww0Vk4/YO5_G-RJzKI/AAAAAAAAAeM/tagUSsJ2i2A4IjWHDy2bLXyBOjFxA01xACLcBGAsYHQ/s200/images%2B%25281%2529%252810%2529.jpeg"  group-title="Sports",HISTORY (TH)
+http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 ch-id="ESPN (UK)" tvg-logo=" "  group-title="Sports",ESPN (UK)
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8?Token=
+#EXTINF:-1 ch-id="TURE SPORTS HD (ASIA)" tvg-logo=" "  group-title="Sports",TURE SPORTS HD (ASIA)
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sports",Premier League1 SD
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports",Premier League2 SD
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sports",Premier League1 HD
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports",Premier League2 HD
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",SPORT TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="Sports",SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="Sports",SPORT TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="Sports",SPORT TV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 4
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Sports",TURE SPORTS HD (ASIA)
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sports",Premier League1 SD
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports",Premier League2 SD
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sports",Premier League1 HD
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports",Premier League2 HD
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",SPORT TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="Sports",SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="Sports",SPORT TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="Sports",SPORT TV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Sports",SPORT TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo="https://i.imgur.com/6J57qAx.png",ESPN (UK)
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8?Token=
+#EXTINF:-1 ch-id="TURE SPORTS HD (ASIA)" tvg-logo="https://i.imgur.com/6J57qAx.png" group-title="Sports",TURE SPORTS HD (ASIA)
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sports",Premier League1 SD
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports",Premier League2 SD
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sports",Premier League1 HD
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports",Premier League2 HD
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Sports",SPORT TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sports",Skynet Sports1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sports",Skynet sports 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sports",Skynet Sports 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sports",Skynet sports 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sports",Skynet Sports 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sports",Skynet sports 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-111734.png",SKYNET HD
+https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-111856.png",SKYNET SPORT1
+https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-111942.png",SKYNET SPORT2
+https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-112031.png",SKYNET SPORT3
+https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-112123.png",SKYNET SPORT4
+https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-112213.png",SKYNET SPORT5
+https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-112326.png",SKYNET SPORT6
+https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSportsSelect1HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSportsSelect2HD
@@ -2484,12 +2801,6 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/oPpGMdS.png",Sony Turbo
 http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/708/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c7cSOJ7.png",RMC 3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSportsSelect1HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSportsSelect2HD
@@ -2564,6 +2875,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",Live Sport
 https://46-21-250-207.livesports24.online/ooomatch.m3u8
+
 
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://static.epg.best/id/TVRI.id.png",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
@@ -6793,4 +7105,4 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 #EXTINF:-1 group-title="South East" tvg-logo="https://i.imgur.com/VjnTeZ5.png",ASTRO Vinmeen HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
-
+#EXTINF:-1 group-title="South East" tvg-logo=
