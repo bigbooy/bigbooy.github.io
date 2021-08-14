@@ -225,70 +225,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8?HBO
 #EXTINF:-1 group-title="Nashya FREEmium" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8?HBO
 
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png" group-title="Olimpiade",OLYMPIC 1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png" group-title="Olimpiade",OLYMPIC 2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png" group-title="Olimpiade",OLYMPIC 3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png" group-title="Olimpiade",OLYMPIC 4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png" group-title="Olimpiade",OLYMPIC 5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png" group-title="Olimpiade",OLYMPIC 6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png" group-title="Olimpiade",OLYMPIC 7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png" group-title="Olimpiade",OLYMPIC 8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png" group-title="Olimpiade",OLYMPIC 10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png" group-title="Olimpiade",OLYMPIC 11
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 12" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png" group-title="Olimpiade",OLYMPIC 12
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 13" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png" group-title="Olimpiade",OLYMPIC 13
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 14" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png" group-title="Olimpiade",OLYMPIC 14
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 15" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png" group-title="Olimpiade",OLYMPIC 15
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 16" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png" group-title="Olimpiade",OLYMPIC 16
-http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
-
 //pl
-#EXTINF:-1 group-title="Olimpiade" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png",Sukan
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="Olimpiade" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png",Sukan 2
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png" group-title="Olimpiade",OLYMPIC 1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png" group-title="Olimpiade",OLYMPIC 2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png" group-title="Olimpiade",OLYMPIC 3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png" group-title="Olimpiade",OLYMPIC 4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png" group-title="Olimpiade",OLYMPIC 5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png" group-title="Olimpiade",OLYMPIC 6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png" group-title="Olimpiade",OLYMPIC 7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png" group-title="Olimpiade",OLYMPIC 8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png" group-title="Olimpiade",OLYMPIC 10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png" group-title="Olimpiade",OLYMPIC 11
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 12" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png" group-title="Olimpiade",OLYMPIC 12
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 13" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png" group-title="Olimpiade",OLYMPIC 13
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 14" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png" group-title="Olimpiade",OLYMPIC 14
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 15" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png" group-title="Olimpiade",OLYMPIC 15
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -347,6 +284,19 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" group-title="Sports" tvg-logo="https://i.imgur.com/TEsgpCK.jpg",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6707
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",Arena ( B )
+http://iptv.tvmalaysia.cc:80/penang100/penang100/9010
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6708
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/e3c388f0dceef7b0bf46c2525f8cc4f1.png",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6710
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6711
+#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6712
 
 
 //movies
@@ -2374,18 +2324,6 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 
 pl sports
-#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",ASTRO Arena HD
-http://iptv.tvmalaysia.cc:80/penang100/penang100/6707
-#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",Arena ( B )
-http://iptv.tvmalaysia.cc:80/penang100/penang100/9010
-#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/penang100/penang100/6708
-#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/e3c388f0dceef7b0bf46c2525f8cc4f1.png",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/penang100/penang100/6710
-#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/penang100/penang100/6711
-#EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/penang100/penang100/6712
 #EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png",FOX Sports HD
 http://iptv.tvmalaysia.cc:80/penang100/penang100/6793
 #EXTINF:-1 group-title="Sports 🎟️" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png",FOX Sports 2 HD
@@ -2502,13 +2440,13 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="Sports",SPORT TV4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="Sports",TrueSport HD 1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="Sports",TrueSport HD 2
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="Sports",TrueSport HD 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="Sports",TrueSport HD 4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/oPpGMdS.png",True Premier HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -6979,3 +6917,4 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 #EXTINF:-1 group-title="South East" tvg-logo="https://i.imgur.com/VjnTeZ5.png",ASTRO Vinmeen HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#EXTINF:-1 group-title="South East" tvg-logo=
